@@ -1,1 +1,2 @@
-![image](https://github.com/FrontEndHighRoller/Colorful-Circles-Generator-with-JavaScript/assets/142683382/45ee75a6-8efe-41e5-a3ae-8a6cdc811ca8)
+![image](https://github.com/FrontEndHighRoller/Colorful-Circles-Generator-with-JavaScript/assets/142683382/b7de5e6a-5add-4634-a927-91d15df7d63c)
+
